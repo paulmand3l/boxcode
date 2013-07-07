@@ -1,0 +1,5 @@
+PythonModule==2.1.8
+Twisted==13.1.0
+autobahn==0.5.14
+wsgiref==0.1.2
+zope.interface==4.0.5
